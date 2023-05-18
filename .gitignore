@@ -165,3 +165,6 @@ credentials.json
 
 # Jupyter notebook for playing around
 playground.ipynb
+
+# Pyenv
+/.python-version
